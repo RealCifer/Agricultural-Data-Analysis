@@ -21,12 +21,17 @@ The study focuses primarily on:
 
 ## Project Structure
 
+```
 Agricultural_Data_Analysis/
+│
 ├── data/
 │   ├── archive/
-│   └── NDTV/
-│       ├── climate_data/
-│       └── groundwater_data/
+│   ├── NDTV/
+│   │   ├── climate_data/
+│   │   └── groundwater_data/
+│   ├── tamilnadu_rice_2000_2017.csv
+│   └── karnataka_rice_2000_2017.csv
+│
 ├── notebook/
 │   ├── 01_data_loading.ipynb
 │   ├── 02_yield_trend_analysis.ipynb
@@ -34,9 +39,12 @@ Agricultural_Data_Analysis/
 │   ├── 04_fertilizer_analysis.ipynb
 │   ├── 05_groundwater_analysis.ipynb
 │   └── 06_conclusion_and_recommendations.ipynb
+│
 ├── results/
 ├── report/
 └── README.md
+```
+
 
 
 ---
