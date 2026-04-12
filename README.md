@@ -33,7 +33,8 @@ Agricultural_Data_Analysis/
 │   │   ├── climate_data/
 │   │   └── groundwater_data/
 │   ├── tamilnadu_rice_2000_2017.csv
-│   └── karnataka_rice_2000_2017.csv
+│   └── karnataka_rice_2000_2017.cs
+    └── extended_crop_dataset.csv
 │
 ├── notebook/
 │   ├── 01_data_loading.ipynb
