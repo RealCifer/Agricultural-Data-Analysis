@@ -228,13 +228,3 @@ Groundwater depletion and inefficient resource usage highlight the need for sust
 - Predictions are clearly separated from actual data
 
 ---
-
-## Future Work
-
-- Machine Learning models (Random Forest, LSTM)
-- Real-time satellite data integration
-- District-level analysis
-- Smart irrigation systems
-- Web-based dashboard (Streamlit)
-
----
