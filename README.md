@@ -40,8 +40,6 @@ Agricultural_Data_Analysis/
 │   ├── 05_groundwater_analysis.ipynb
 │   └── 06_conclusion_and_recommendations.ipynb
 │
-├── results/
-├── report/
 └── README.md
 ```
 
